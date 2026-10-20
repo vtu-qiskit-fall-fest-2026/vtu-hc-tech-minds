@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Tech Minds** · Team ID `VTU-QFF-HC-0084` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Tech Minds)
+[⬆ Back to Top](#tech-minds)
 
 </div>
